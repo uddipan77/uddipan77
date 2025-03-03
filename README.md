@@ -27,16 +27,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://github.com/hwchase17/langchain" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/img/langchain-logo.png" alt="LangChain" width="40" height="40"/>
+    <img src="langchain.jpg" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://www.pytorchlightning.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/img/pytorch-lightning-logo-dark.png" alt="PyTorch Lightning" width="40" height="40"/>
+    <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" alt="PyTorch Lightning" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
   </a>
   <a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ggerganov/llama.cpp/blob/master/logo.png?raw=true" alt="LLaMA" width="40" height="40"/>
+    <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LLaMA" width="40" height="40"/>
   </a>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
